@@ -3,6 +3,7 @@ This is a full risk analysis of Rane Logistics, a fictitious shipping company
 - ISC2 Conducting Practical Risk Analysis Certification                                         
 
 
+
 Risk Analysis Objectives
 
 1)	Review business impacts of risks, issues, and related terms
