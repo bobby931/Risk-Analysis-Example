@@ -1,4 +1,4 @@
-This is a full risk analysis of Rane Logistics, a fictious shipping company, 
+This is a full risk analysis of Rane Logistics, a fictitious shipping company
 - Analysis was possible via ISC2
 - ISC2 Conducting Practical Risk Analysis Certification                                         
 
